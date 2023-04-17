@@ -7,6 +7,14 @@
     <title>Patro|Regio Mons-Bo</title>
 </head>
 <body>
-<span class="head"></span>
+<span class="head">
+    <img src="" alt="">
+    <input type="search" id="chercher" name="chercher" checked>
+    <!-- Code php qui va redirect par rapport a le input search -->
+    <?php 
+    $search = $_POST['chercher'];
+    
+    ?>
+</span>
 </body>
 </html>
