@@ -7,6 +7,6 @@
     <title>Patro|Regio Mons-Bo</title>
 </head>
 <body>
-    
+<span class="head"></span>
 </body>
 </html>
